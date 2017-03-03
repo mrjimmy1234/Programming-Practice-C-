@@ -1,0 +1,9 @@
+C:\Users\arnottje01\Desktop\A2_Project\A2_Project\bin\Debug\A2_Project.exe.config
+C:\Users\arnottje01\Desktop\A2_Project\A2_Project\bin\Debug\A2_Project.exe
+C:\Users\arnottje01\Desktop\A2_Project\A2_Project\bin\Debug\A2_Project.pdb
+C:\Users\arnottje01\Desktop\A2_Project\A2_Project\obj\Debug\A2_Project.csprojResolveAssemblyReference.cache
+C:\Users\arnottje01\Desktop\A2_Project\A2_Project\obj\Debug\A2_Project.Properties.Resources.resources
+C:\Users\arnottje01\Desktop\A2_Project\A2_Project\obj\Debug\A2_Project.csproj.GenerateResource.Cache
+C:\Users\arnottje01\Desktop\A2_Project\A2_Project\obj\Debug\A2_Project.exe
+C:\Users\arnottje01\Desktop\A2_Project\A2_Project\obj\Debug\A2_Project.pdb
+C:\Users\arnottje01\Desktop\A2_Project\A2_Project\obj\Debug\A2_Project.Form1.resources
